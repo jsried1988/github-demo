@@ -4,3 +4,6 @@ Log.rtf
 
 # Static Files
 script.py
+
+# Auto generated dirs
+AutoGen/*
